@@ -10,9 +10,10 @@
 }
 
 #third {
-    font-size: 24px;
+    font-size: 24px; 
 }
-
+/* Could have combined the third and fourth ID into a singular class "adjust-font-size" 
+    this could reduce repeat lines in the code. that is the only difference in from the solution.*/
 #fourth {
     background-color: #90ee90;
     font-size: 24px;

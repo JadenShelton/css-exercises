@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.one,
+.two {
+    font-size: 28px;
+    font: Helvetica, "Times New Roman", sans-serif;
+}
+/* Initially, instead of grouping i just used the "button selector since
+    that applies to both of them already though I realized that kinda
+    missed the point of this exercise. */
+
+.one {
+    background-color: hsl(0, 0%, 0%);
+    color: rgb(255, 255, 255);
+}
+
+.two {
+    background-color: yellow;
+}
